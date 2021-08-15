@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Library", "GUI_Library\GUI_Library.csproj", "{9DA0F5D8-B152-4642-9E4D-3D43323C55F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTester", "..\..\ControlTester\ControlTester.csproj", "{BCDE29A3-02C7-4639-B0F3-462B6954B49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA0F5D8-B152-4642-9E4D-3D43323C55F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA0F5D8-B152-4642-9E4D-3D43323C55F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA0F5D8-B152-4642-9E4D-3D43323C55F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA0F5D8-B152-4642-9E4D-3D43323C55F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDE29A3-02C7-4639-B0F3-462B6954B49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDE29A3-02C7-4639-B0F3-462B6954B49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDE29A3-02C7-4639-B0F3-462B6954B49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDE29A3-02C7-4639-B0F3-462B6954B49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F58DCDD3-7637-40D9-AD73-FA05A4031E1A}
+	EndGlobalSection
+EndGlobal

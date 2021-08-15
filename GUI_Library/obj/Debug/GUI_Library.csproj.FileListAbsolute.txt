@@ -1,0 +1,7 @@
+D:\Personal  Projects\VIS STUDIO\Libraries\GUI_Library\GUI_Library\bin\Debug\GUI_Library.dll
+D:\Personal  Projects\VIS STUDIO\Libraries\GUI_Library\GUI_Library\bin\Debug\GUI_Library.pdb
+D:\Personal  Projects\VIS STUDIO\Libraries\GUI_Library\GUI_Library\obj\Debug\GUI_Library.viTextbox.resources
+D:\Personal  Projects\VIS STUDIO\Libraries\GUI_Library\GUI_Library\obj\Debug\GUI_Library.csproj.GenerateResource.cache
+D:\Personal  Projects\VIS STUDIO\Libraries\GUI_Library\GUI_Library\obj\Debug\GUI_Library.csproj.CoreCompileInputs.cache
+D:\Personal  Projects\VIS STUDIO\Libraries\GUI_Library\GUI_Library\obj\Debug\GUI_Library.dll
+D:\Personal  Projects\VIS STUDIO\Libraries\GUI_Library\GUI_Library\obj\Debug\GUI_Library.pdb
